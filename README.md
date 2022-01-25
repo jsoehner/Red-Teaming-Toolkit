@@ -1,5 +1,7 @@
 # Red Teaming/Adversary Simulation Toolkit
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/b8d8e1ec-0708-4127-bd74-9c65be627160.svg?orgId=320408544746)](https://app.soluble.cloud/repos/details/github.com/jsoehner/red-teaming-toolkit?orgId=320408544746)  
+
 A collection of open source and commercial tools that aid in red team operations. This repository will help you during red team engagement. If you want to contribute to this list send me a pull request.
 ___________________________________________________________________________________________________________
 
